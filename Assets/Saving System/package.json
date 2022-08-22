@@ -1,9 +1,9 @@
 package.json
 {
-	"name":"com.FireBear.SavingSystem",
+	"name":"com.firebear.saving-system",
 	"version":"0.1",
 	"displayName":"Saving System",
-	"description":"A simply saving system globbaly accessible that save scriptables objects or classes with the ISalvable interface",
+	"description":"A simply saving system that save a selected class derived from ScriptableObject",
 	"unity":"2021.3.0",
 	"author":
 	{
