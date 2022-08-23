@@ -3,7 +3,7 @@
 	"version":"0.1",
 	"displayName":"Saving System",
 	"description":"A simply saving system that save a selected class derived from ScriptableObject",
-	"unity":"2021.3.0",
+	"unity":"2021.3",
 	"author":
 	{
 		"name":"FireBear",
