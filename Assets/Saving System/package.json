@@ -1,0 +1,13 @@
+package.json
+{
+	"name":"com.firebear.saving-system",
+	"version":"0.1",
+	"displayName":"Saving System",
+	"description":"A simply saving system that save a selected class derived from ScriptableObject",
+	"unity":"2021.3.0",
+	"author":
+	{
+		"name":"FireBear",
+		"url":"https://github.com/fireBear-git"
+	} 
+}
