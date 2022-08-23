@@ -1,0 +1,16 @@
+{
+    "name": "firebear.saving-system.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:05542a06f8102794694672561fa96e15"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
